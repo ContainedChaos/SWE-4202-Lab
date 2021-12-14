@@ -1,0 +1,14 @@
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).csproj.AssemblyReference.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab_Task_5__Pharmacy_Management_System_.MfgDateBox.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab_Task_5__Pharmacy_Management_System_.Properties.Resources.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).csproj.GenerateResource.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).csproj.CoreCompileInputs.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\bin\Debug\Lab Task 5 (Pharmacy Management System).exe.config
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\bin\Debug\Lab Task 5 (Pharmacy Management System).exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\bin\Debug\Lab Task 5 (Pharmacy Management System).pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\bin\Debug\Pharmacy_Dependencies.dll
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\bin\Debug\Pharmacy_Dependencies.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).csproj.CopyComplete
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\Lab Task 5 (Pharmacy Management System)\Lab Task 5 (Pharmacy Management System)\obj\Debug\Lab Task 5 (Pharmacy Management System).pdb

@@ -9,3 +9,14 @@ C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask4\LabTask4\bin\Debug\
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask4\LabTask4\bin\Debug\LabTask4.pdb
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask4\LabTask4\obj\Debug\LabTask4.exe
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask4\LabTask4\obj\Debug\LabTask4.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\bin\Debug\LabTask4.exe.config
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\bin\Debug\LabTask4.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\bin\Debug\LabTask4.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.csproj.AssemblyReference.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.Form1.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.Properties.Resources.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.csproj.GenerateResource.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.csproj.CoreCompileInputs.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.pdb

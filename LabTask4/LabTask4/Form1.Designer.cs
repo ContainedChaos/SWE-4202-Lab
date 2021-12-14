@@ -382,7 +382,6 @@
             this.BorrowStudyBookOnClick.TabIndex = 36;
             this.BorrowStudyBookOnClick.Text = "Borrow";
             this.BorrowStudyBookOnClick.UseVisualStyleBackColor = true;
-
             // 
             // BorrowArticleOnClick
             // 
@@ -437,7 +436,7 @@
             this.StudyBookList.ItemHeight = 16;
             this.StudyBookList.Location = new System.Drawing.Point(937, 103);
             this.StudyBookList.Name = "StudyBookList";
-            this.StudyBookList.Size = new System.Drawing.Size(322, 196);
+            this.StudyBookList.Size = new System.Drawing.Size(432, 196);
             this.StudyBookList.TabIndex = 42;
             // 
             // ResearchArticleList
@@ -446,7 +445,7 @@
             this.ResearchArticleList.ItemHeight = 16;
             this.ResearchArticleList.Location = new System.Drawing.Point(937, 415);
             this.ResearchArticleList.Name = "ResearchArticleList";
-            this.ResearchArticleList.Size = new System.Drawing.Size(322, 196);
+            this.ResearchArticleList.Size = new System.Drawing.Size(432, 196);
             this.ResearchArticleList.TabIndex = 43;
             // 
             // Form1
