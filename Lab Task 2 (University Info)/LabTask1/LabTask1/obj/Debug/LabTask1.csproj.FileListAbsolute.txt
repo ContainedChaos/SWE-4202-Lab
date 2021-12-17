@@ -1,0 +1,22 @@
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\bin\Debug\LabTask1.exe.config
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\bin\Debug\LabTask1.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\bin\Debug\LabTask1.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.AssemblyReference.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.Form1.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.Properties.Resources.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.GenerateResource.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.CoreCompileInputs.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask1\LabTask1\obj\Debug\LabTask1.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\bin\Debug\LabTask1.exe.config
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\bin\Debug\LabTask1.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\bin\Debug\LabTask1.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.AssemblyReference.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.Form1.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.Properties.Resources.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.GenerateResource.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.csproj.CoreCompileInputs.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\StudTeachAdminInfo (task2)\LabTask1\LabTask1\obj\Debug\LabTask1.pdb

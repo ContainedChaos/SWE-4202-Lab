@@ -1,0 +1,11 @@
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.csproj.AssemblyReference.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.Form1.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.Properties.Resources.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.csproj.GenerateResource.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\bin\Debug\GradesApp.exe.config
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\bin\Debug\GradesApp.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\bin\Debug\GradesApp.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.pdb

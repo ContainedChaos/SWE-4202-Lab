@@ -1,0 +1,11 @@
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.AssemblyReference.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.Form1.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.Properties.Resources.resources
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.GenerateResource.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.CoreCompileInputs.cache
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\bin\Debug\LabTask2.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.exe
+C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\LabTask2\LabTask2\obj\Debug\LabTask2.pdb
