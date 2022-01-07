@@ -1,0 +1,11 @@
+E:\SWE4202\LabTask7\LabTask7\bin\Debug\LabTask7.exe.config
+E:\SWE4202\LabTask7\LabTask7\bin\Debug\LabTask7.exe
+E:\SWE4202\LabTask7\LabTask7\bin\Debug\LabTask7.pdb
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.csproj.AssemblyReference.cache
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.Form1.resources
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.Properties.Resources.resources
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.csproj.GenerateResource.cache
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.csproj.CoreCompileInputs.cache
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.exe
+E:\SWE4202\LabTask7\LabTask7\obj\Debug\LabTask7.pdb
