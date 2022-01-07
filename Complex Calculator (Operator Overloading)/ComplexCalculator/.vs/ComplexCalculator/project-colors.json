@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a6b5f37-fad1-47bd-8ac6-90f84d1115d2": {
+      "ProjectGuid": "5a6b5f37-fad1-47bd-8ac6-90f84d1115d2",
+      "DisplayName": "ComplexCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

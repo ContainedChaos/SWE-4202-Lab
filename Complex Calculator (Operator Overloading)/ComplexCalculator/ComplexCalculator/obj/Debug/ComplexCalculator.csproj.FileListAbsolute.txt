@@ -1,0 +1,11 @@
+E:\SWE4202\ComplexCalculator\ComplexCalculator\bin\Debug\ComplexCalculator.exe.config
+E:\SWE4202\ComplexCalculator\ComplexCalculator\bin\Debug\ComplexCalculator.exe
+E:\SWE4202\ComplexCalculator\ComplexCalculator\bin\Debug\ComplexCalculator.pdb
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.AssemblyReference.cache
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.Form1.resources
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.Properties.Resources.resources
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.GenerateResource.cache
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.csproj.CoreCompileInputs.cache
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.exe
+E:\SWE4202\ComplexCalculator\ComplexCalculator\obj\Debug\ComplexCalculator.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9bd6372-446d-4474-8e43-4f18067cc7f6": {
+      "ProjectGuid": "f9bd6372-446d-4474-8e43-4f18067cc7f6",
+      "DisplayName": "Car Rental System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
