@@ -71,6 +71,30 @@ namespace LabTask4
             }
         }
 
+        private void BorrowStudyBookOnClick_Click(object sender, EventArgs e)
+        {
+            int ID = Convert.ToInt32(StudyBookBorrowBox.Text);
+            
+                foreach (StudyBook studyBook in studyBooks)
+                {
+                    if (ID == studyBook.ID)
+                    {
+                        studyBook.Quantity -= 1;
+                    }
+                }
+        }
 
+        private void BorrowArticleOnClick_Click(object sender, EventArgs e)
+        {
+            int ID = Convert.ToInt32(ArticleBorrowBox.Text);
+
+            foreach (ResearchArticle article in articles)
+            {
+                if (ID == article.ID)
+                {
+                    article.Quantity -= 1;
+                }
+            }
+        }
     }
 }

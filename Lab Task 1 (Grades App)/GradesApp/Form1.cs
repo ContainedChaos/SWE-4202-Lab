@@ -39,7 +39,7 @@ namespace GradesApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int attd, mid, final, q1, q2, q3, q4, total;
+            int attd, mid, final, total;
             string name = NameBox.Text;
             string grade = "";
             attd = Convert.ToInt32(AttendBox.Text);
@@ -50,8 +50,10 @@ namespace GradesApp
             AttdLabel.Text = AttendBox.Text + "/30";
             MidLabel.Text = MidBox.Text + "/75"; 
             FinalLabel.Text = FinalBox.Text + "/150";
+
             //int quiztotal = q1 + q2 + q3 + q4;
             //QuizLabel.Text = quiztotal.ToString();
+
             int[] quiz = new int[4];
             quiz[0] = Convert.ToInt32(QuizBox1.Text);
             quiz[1] = Convert.ToInt32(QuizBox2.Text);
@@ -65,8 +67,6 @@ namespace GradesApp
             total = (mid + final + quiztotal + attd);
             TotalLabel.Text = total.ToString() + "/300";
             double percentage = (total / 300.0) * 100.0;
-
-            total = quiztotal + attd + mid + final;
 
 
             if (percentage >= 80)

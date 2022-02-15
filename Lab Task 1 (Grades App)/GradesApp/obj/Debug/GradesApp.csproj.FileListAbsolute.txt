@@ -9,3 +9,14 @@ C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\bin\Debu
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\bin\Debug\GradesApp.pdb
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.exe
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\GradesApp\GradesApp\obj\Debug\GradesApp.pdb
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\bin\Debug\GradesApp.exe.config
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\bin\Debug\GradesApp.exe
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\bin\Debug\GradesApp.pdb
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.csproj.AssemblyReference.cache
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.Form1.resources
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.Properties.Resources.resources
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.csproj.GenerateResource.cache
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.csproj.CoreCompileInputs.cache
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.exe
+E:\SWE-4202-Lab\Lab Task 1 (Grades App)\GradesApp\obj\Debug\GradesApp.pdb

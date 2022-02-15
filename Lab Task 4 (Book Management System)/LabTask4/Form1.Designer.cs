@@ -382,6 +382,7 @@
             this.BorrowStudyBookOnClick.TabIndex = 36;
             this.BorrowStudyBookOnClick.Text = "Borrow";
             this.BorrowStudyBookOnClick.UseVisualStyleBackColor = true;
+            this.BorrowStudyBookOnClick.Click += new System.EventHandler(this.BorrowStudyBookOnClick_Click);
             // 
             // BorrowArticleOnClick
             // 
@@ -391,6 +392,7 @@
             this.BorrowArticleOnClick.TabIndex = 37;
             this.BorrowArticleOnClick.Text = "Borrow";
             this.BorrowArticleOnClick.UseVisualStyleBackColor = true;
+            this.BorrowArticleOnClick.Click += new System.EventHandler(this.BorrowArticleOnClick_Click);
             // 
             // ShowStudyBooksOnClick
             // 

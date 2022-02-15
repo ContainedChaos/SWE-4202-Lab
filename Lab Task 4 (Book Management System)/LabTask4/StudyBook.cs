@@ -27,16 +27,5 @@ namespace LabTask4
             return StudyBookInfo;
         }
 
-        //public void BorrowStudyBook(int ID)
-        //{
-        //    foreach (StudyBook studyBook in studyBooks)
-        //    {
-        //        if (ID == this.ID)
-        //        {
-        //            this.Quantity = Quantity - 1;
-        //        }
-        //    }
-        //}
-
     }
 }

@@ -20,3 +20,14 @@ C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\La
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.csproj.CoreCompileInputs.cache
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.exe
 C:\Users\Kamrun Nessa Runa\OneDrive\Desktop\SWE4201\SWE 4202 Lab\SWE-4202-Lab\LabTask4\LabTask4\obj\Debug\LabTask4.pdb
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\bin\Debug\LabTask4.exe.config
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\bin\Debug\LabTask4.exe
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\bin\Debug\LabTask4.pdb
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.csproj.AssemblyReference.cache
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.csproj.SuggestedBindingRedirects.cache
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.Form1.resources
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.Properties.Resources.resources
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.csproj.GenerateResource.cache
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.csproj.CoreCompileInputs.cache
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.exe
+E:\SWE-4202-Lab\Lab Task 4 (Book Management System)\LabTask4\obj\Debug\LabTask4.pdb
