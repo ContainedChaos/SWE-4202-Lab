@@ -1,0 +1,8 @@
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\bin\Debug\Lab Task 9 (Shapes).exe.config
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\bin\Debug\Lab Task 9 (Shapes).exe
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\bin\Debug\Lab Task 9 (Shapes).pdb
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\obj\Debug\Lab Task 9 (Shapes).csproj.AssemblyReference.cache
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\obj\Debug\Lab Task 9 (Shapes).csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\obj\Debug\Lab Task 9 (Shapes).csproj.CoreCompileInputs.cache
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\obj\Debug\Lab Task 9 (Shapes).exe
+E:\SWE4202\Lab Task 9 (Shapes)\Lab Task 9 (Shapes)\obj\Debug\Lab Task 9 (Shapes).pdb

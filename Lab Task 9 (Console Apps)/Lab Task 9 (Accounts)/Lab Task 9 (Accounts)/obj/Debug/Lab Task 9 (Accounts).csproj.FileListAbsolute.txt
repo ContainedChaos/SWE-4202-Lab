@@ -1,0 +1,8 @@
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\bin\Debug\Lab Task 9 (Accounts).exe.config
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\bin\Debug\Lab Task 9 (Accounts).exe
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\bin\Debug\Lab Task 9 (Accounts).pdb
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\obj\Debug\Lab Task 9 (Accounts).csproj.AssemblyReference.cache
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\obj\Debug\Lab Task 9 (Accounts).csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\obj\Debug\Lab Task 9 (Accounts).csproj.CoreCompileInputs.cache
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\obj\Debug\Lab Task 9 (Accounts).exe
+E:\SWE4202\Lab Task 9 (Accounts)\Lab Task 9 (Accounts)\obj\Debug\Lab Task 9 (Accounts).pdb
