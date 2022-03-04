@@ -1,0 +1,11 @@
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.csproj.AssemblyReference.cache
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.Form1.resources
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.Properties.Resources.resources
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.csproj.GenerateResource.cache
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.csproj.CoreCompileInputs.cache
+E:\SWE4202\LabTask10\LabTask10\bin\Debug\LabTask10.exe.config
+E:\SWE4202\LabTask10\LabTask10\bin\Debug\LabTask10.exe
+E:\SWE4202\LabTask10\LabTask10\bin\Debug\LabTask10.pdb
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.exe
+E:\SWE4202\LabTask10\LabTask10\obj\Debug\LabTask10.pdb
