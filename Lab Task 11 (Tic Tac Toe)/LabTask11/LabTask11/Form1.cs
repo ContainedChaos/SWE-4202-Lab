@@ -113,8 +113,11 @@ namespace LabTask11
                     }
 
                     catch { }
-            }
-            }
+                }
+
+            ResetButton.Text = "Reset";
+            
         }
+    }
     }
 

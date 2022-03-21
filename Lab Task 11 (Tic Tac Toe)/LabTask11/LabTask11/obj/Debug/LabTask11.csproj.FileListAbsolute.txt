@@ -9,3 +9,14 @@ E:\SWE4202\LabTask11\LabTask11\obj\Debug\LabTask11.csproj.GenerateResource.cache
 E:\SWE4202\LabTask11\LabTask11\obj\Debug\LabTask11.csproj.CoreCompileInputs.cache
 E:\SWE4202\LabTask11\LabTask11\obj\Debug\LabTask11.exe
 E:\SWE4202\LabTask11\LabTask11\obj\Debug\LabTask11.pdb
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\bin\Debug\LabTask11.exe.config
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\bin\Debug\LabTask11.exe
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\bin\Debug\LabTask11.pdb
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.csproj.AssemblyReference.cache
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.Form1.resources
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.Properties.Resources.resources
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.csproj.GenerateResource.cache
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.csproj.CoreCompileInputs.cache
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.exe
+E:\SWE4202\Lab Task 11 (Tic Tac Toe)\LabTask11\LabTask11\obj\Debug\LabTask11.pdb
