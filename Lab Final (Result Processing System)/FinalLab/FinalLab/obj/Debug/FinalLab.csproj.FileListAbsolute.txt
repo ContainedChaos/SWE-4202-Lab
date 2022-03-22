@@ -1,0 +1,11 @@
+E:\SWE4202\FinalLab\FinalLab\bin\Debug\FinalLab.exe.config
+E:\SWE4202\FinalLab\FinalLab\bin\Debug\FinalLab.exe
+E:\SWE4202\FinalLab\FinalLab\bin\Debug\FinalLab.pdb
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.AssemblyReference.cache
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.SuggestedBindingRedirects.cache
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.Form1.resources
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.Properties.Resources.resources
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.GenerateResource.cache
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.csproj.CoreCompileInputs.cache
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.exe
+E:\SWE4202\FinalLab\FinalLab\obj\Debug\FinalLab.pdb
